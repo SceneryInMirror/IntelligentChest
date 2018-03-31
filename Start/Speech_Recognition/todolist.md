@@ -2,7 +2,7 @@ python -> post (get it)
 
 get token (get it)
 
-post wav
+post wav (have problems)
 
 
 token:
